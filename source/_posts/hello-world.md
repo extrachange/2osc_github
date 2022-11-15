@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 1999-06-02 16:23:21
 ---
 # 命不久矣的Hello, world!
 
