@@ -105,7 +105,7 @@ theme: hexo-theme-ocean-develop
 deploy:
   type: git
   repo: https://github.com/extrachange/2osc_site.git
-  branch: main
+  branch: master
   message: hexo_d
 search:
   path: search.xml
