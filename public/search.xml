@@ -16,7 +16,7 @@
 <p>​          MK III Model 2820-2823 橙黑配色，4075滤波器(24dB/Oct) 使用PPC控制器 1978-1981年</p>
 <p>硬件复刻: Korg ARP Odyssey、Behringer Odyssey、Prodyssey ASB（DSP）</p>
 <p>软件复刻: GForce Oddity, Korg ARP Odyssey</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <hr>
 <p><img src="/images/10_ARP-ODYSSEY-FS_image.jpg" alt="Korg版Odyssey FS"></p>
@@ -32,32 +32,11 @@
       </tags>
   </entry>
   <entry>
-    <title>披着羊皮的狼——罗兰 alpha Juno</title>
-    <url>/2021/08/09/Juno/</url>
-    <content><![CDATA[<p><img src="/images/Alpha-Juno-1.jpg" alt="Alpha-Juno-1"></p>
-<p>发布于1985年，alpha-Juno及其机架版本是罗兰80年代最后的几款模拟合成器之一，虽然外观明显地受到了DX7的影响，而且并没有前辈Juno的高级感。但𝛂Juno远比它看上去要彪悍，是一只披着羊皮的狼。</p>
-<a id="more"></a>
-
-<p>正如名字所说，alpha Juno是Juno系列的产品，有着单振荡器和模拟滤波器，加上Sub振荡器以及经典的合唱效果器，这样的配置十分对得起Juno的名号。然而，Juno系列一贯是入门产品，所以，罗兰把所有的控制简化成了薄膜按键和一个Alpha Dial旋钮——这也是名字中Alpha的由来。</p>
-<p>有趣的是，alpha Juno-1和alpha Juno-2实际上是同时发布的产品，一样的引擎，一样的64+64预设，两者的区别在于，Juno-2变成了61键力度感应键盘——仅此而已。</p>
-<p>alpha Juno和808一样，都是生不逢时的产品，直到Techno时代，才靠着一个经典的Hoover声音成功上位，避免了成为电子垃圾的命运。作为罗兰向数字时代过渡期的产品，alpha Juno拥有大量的数字控制以及完备的Midi映射，搭载的键盘与JX-8P基本相同，并且整机非常可靠，现在依然能找到不少正常工作的alpha Juno，Juno-1的声音带有那个年代的数字味，不过也有着经典的合唱效果器，如果你喜欢Juno-106的声音，又不想付出高昂的代价的话，alpha Juno系列是一个有趣的选择。</p>
-<p>alpha Juno的宣传册也十分有创意，第一眼看起来是Juno-1，翻开右侧的页面就变成了Juno-2</p>
-<p>![alphajuno-open (1)](/images/alphajuno-open (1).gif)</p>
-<p><img src="/images/roland_alphaj_brop1.jpg" alt="roland_alphaj_brop1"></p>
-<p><img src="/images/roland_alphaj_brop234-0376253.jpg" alt="roland_alphaj_brop234"></p>
-<p><img src="/images/roland_alphaj_brop5.jpg" alt="roland_alphaj_brop5"><img src="" alt="roland_alphaj_brop234"></p>
-]]></content>
-      <tags>
-        <tag>模拟合成器</tag>
-        <tag>罗兰</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Yamaha DX7的故事</title>
     <url>/2021/05/25/DX7%E7%9A%84%E6%95%85%E4%BA%8B/</url>
     <content><![CDATA[<h2 id="Yamaha-DX7的故事"><a href="#Yamaha-DX7的故事" class="headerlink" title="Yamaha DX7的故事"></a>Yamaha DX7的故事</h2><p><img src="/images/Yamaha-DX7-1.png" alt="Yamaha-DX7-1"></p>
 <p>​    雅马哈DX7可能是80年代最重要的合成器，它横扫了当时的合成器市场，还为合成器数字化的进程推进了一大步。本篇文章里，我们就来一起深入了解一下这台传奇合成器的故事。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>​    DX7是世界上第一台大获成功的数字合成器，也是有史以来销量最高的合成器之一，累计销售超过20万台。DX7带来了巨大而又深远的影响，它不仅影响了人们使用键盘的方式，甚至改变了键盘这个词本身。在DX7之前，人们提到”键盘(Keyboard)”时，通常都是指钢琴、电钢(Rhodes)、风琴(Organ)这种乐器的键盘本身，这时候的合成器还与大众相去甚远。然而DX7改变了这一切，DX7的外观就是完全从模拟合成器的反面出发，摒弃了密密麻麻的旋钮，并且以“选择一个预设，然后开始演奏”的角度设计了操作模式，这为DX7的大卖奠定了基础。DX7很快成为了键盘手的必备武器，人民开始用键盘这个词来称呼合成器。可以说，雅马哈的DX系列打开了合成器大众化的大门。</p>
 <p>在开启我们的时间机器之前，让我们先来听一听<a href="https://www.bilibili.com/video/BV1hq4y1j728">DX7的声音</a></p>
@@ -122,6 +101,27 @@
       </tags>
   </entry>
   <entry>
+    <title>披着羊皮的狼——罗兰 alpha Juno</title>
+    <url>/2021/08/09/Juno/</url>
+    <content><![CDATA[<p><img src="/images/Alpha-Juno-1.jpg" alt="Alpha-Juno-1"></p>
+<p>发布于1985年，alpha-Juno及其机架版本是罗兰80年代最后的几款模拟合成器之一，虽然外观明显地受到了DX7的影响，而且并没有前辈Juno的高级感。但𝛂Juno远比它看上去要彪悍，是一只披着羊皮的狼。</p>
+<span id="more"></span>
+
+<p>正如名字所说，alpha Juno是Juno系列的产品，有着单振荡器和模拟滤波器，加上Sub振荡器以及经典的合唱效果器，这样的配置十分对得起Juno的名号。然而，Juno系列一贯是入门产品，所以，罗兰把所有的控制简化成了薄膜按键和一个Alpha Dial旋钮——这也是名字中Alpha的由来。</p>
+<p>有趣的是，alpha Juno-1和alpha Juno-2实际上是同时发布的产品，一样的引擎，一样的64+64预设，两者的区别在于，Juno-2变成了61键力度感应键盘——仅此而已。</p>
+<p>alpha Juno和808一样，都是生不逢时的产品，直到Techno时代，才靠着一个经典的Hoover声音成功上位，避免了成为电子垃圾的命运。作为罗兰向数字时代过渡期的产品，alpha Juno拥有大量的数字控制以及完备的Midi映射，搭载的键盘与JX-8P基本相同，并且整机非常可靠，现在依然能找到不少正常工作的alpha Juno，Juno-1的声音带有那个年代的数字味，不过也有着经典的合唱效果器，如果你喜欢Juno-106的声音，又不想付出高昂的代价的话，alpha Juno系列是一个有趣的选择。</p>
+<p>alpha Juno的宣传册也十分有创意，第一眼看起来是Juno-1，翻开右侧的页面就变成了Juno-2</p>
+<p>![alphajuno-open (1)](/images/alphajuno-open (1).gif)</p>
+<p><img src="/images/roland_alphaj_brop1.jpg" alt="roland_alphaj_brop1"></p>
+<p><img src="/images/roland_alphaj_brop234-0376253.jpg" alt="roland_alphaj_brop234"></p>
+<p><img src="/images/roland_alphaj_brop5.jpg" alt="roland_alphaj_brop5"><img src="" alt="roland_alphaj_brop234"></p>
+]]></content>
+      <tags>
+        <tag>模拟合成器</tag>
+        <tag>罗兰</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Minimoog Model D</title>
     <url>/2021/02/08/Minimoog-Model-D/</url>
     <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个世界"><a href="#一个世界" class="headerlink" title="一个世界"></a>一个世界</h2><p><img src="/images/3dAoIleW9j4HxDt.jpg"></p>
@@ -135,7 +135,7 @@
 <p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
 <p>​          V-Trig输出、音高调制输出</p>
 <p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p><img src="/images/1tDKxe8NVoZ7U6v.jpg"></p>
 <p><img src="/images/TlAML8QEUwdmfur.jpg"></p>
@@ -158,7 +158,7 @@
 
 <p><strong>如果说谁有资格成为合成器之神，那非Dr.Moog莫属</strong></p>
 <p>Robert Moog没有发明合成器，但是就像蔡伦造纸一样，他定义了合成器应该是什么样子的，可以说，没有Robert Moog，很多合成器标准将不复存在。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="童年种子"><a href="#童年种子" class="headerlink" title="童年种子"></a>童年种子</h2><p>Robert Moog在小时候就对电子技术着了迷，尤其是能发出声音的电路。他的父亲是一个业余无线电爱好者（在当时这属于超级前卫的爱好），这使得Robert Moog小时候没有像其他孩子一样打棒球，而是孜孜不倦的玩弄各种电路，这就是他开了挂般人生的起点。</p>
 <p>Robert Moog生在了一个合适的年代，使得他有机会跟随电子乐器的发展潮流，。从1906年真空管普及以来，各种试验性乐器被发明出来，例如Forest’s Audion piano (1915)、Theremin (1920)，还有 Maurice Martenot’s Ondes instrument (1928)。到了40年代，振荡器、滤波器、包络发生器以及简单的效果器已经初具雏形了。这使得Moog小时候就对特雷门琴产生了浓厚兴趣。在1949年，他14岁的时候，就凭借《电子世界》杂志上的电路图自制了一台特雷门琴。</p>
@@ -211,7 +211,7 @@
 <p><strong>特点</strong>：第一台可编程（存储预设）合成器，40个预设槽位（后增至120个）</p>
 <p><strong>架构</strong>：2VCO(可混合的脉冲、锯齿波、振荡器2有三角波), 噪声发生器(白/粉), 1VCF(SSM 2140、SSM 2040、CEM 3320), 2ENV(ADSR), 1LFO, Poly Mod、Unison功能</p>
 <p><strong>接口</strong>: 磁带、CV输入(滤波器、AMP)、CV/Gate输入输出、单声道输出、Release踏板</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p><img src="/images/sequential-circuits-prophet-5-rev3-3532369.jpeg" alt="sequential-circuits-prophet-5-rev3-3532369"></p>
 <p><img src="/images/Sequential-Prophet5-Rev1-03-Osc.jpg" alt="Sequential-Prophet5-Rev1-03-Osc"></p>
@@ -235,7 +235,7 @@
     <url>/2021/07/26/Softube-Model-84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%E5%90%A7/</url>
     <content><![CDATA[<p><img src="/images/Softube-Model-84-2.jpg" alt="Softube-Model-84-2"></p>
 <p>Softube开始做合成器建模的时候我是很激动的，毕竟凭Softube的建模实力，做这些轻而易举，当然，合成器这玩意不比各种效果器简单，特别是音色上的差异很容易被听出来，这次Softube的Model84（建模自Juno-106）着实让我吃了一惊。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>首先，这个界面可以算是第一梯队，虽然我个人对这种故意做旧的外观并不来电（那两个发黄的琴键有点要命），不过就拟真性来看，Softube做的相当不错。并且，界面没有像罗兰一样一比一地还原真琴，而是像TAL那样，为适应屏幕做了调整，推子和旋钮操作起来十分精准顺滑，手感颇佳，边弹边调参数也能感觉到声音是自然地在变化。</p>
 <p><img src="/images/Model184-1.png" alt="Model-84"></p>
@@ -255,51 +255,12 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/1999/06/02/hello-world/</url>
-    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<a id="more"></a>
-
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>人见人爱的Juno</title>
-    <url>/2021/03/06/%E4%BA%BA%E8%A7%81%E4%BA%BA%E7%88%B1%E7%9A%84Juno/</url>
-    <content><![CDATA[<h3 id="带领孩子看到光明的神祇"><a href="#带领孩子看到光明的神祇" class="headerlink" title="带领孩子看到光明的神祇"></a>带领孩子看到光明的神祇</h3><p>也许罗兰的Juno就是这么的温柔吧，当第一次听到Juno-106时，我便被迷住了，我第一次意识到合成器还能如此般的珠圆玉润，清澈通透，当时的我，就像看到了光明的孩子…</p>
-<p><img src="/images/Juno-60.png" alt="Juno-60"></p>
-<p>当然，这里说的是Juno-6、Juno-60以及Juno-106这三个姐妹，Juno1和Juno2两个一直都生活在她们的阴影下，没有活得如此光鲜，只能说谋事在人，成事在天啦哈哈哈。</p>
-<a id="more"></a>
-
-<p>如果说Jupiter系列是外强中干的阳刚之气，那Juno就是含蓄内敛的冰心玉壶，也和名字里的含义一样，如同温柔的神明，声音细腻柔和，温暖细腻。</p>
-<p>Juno实际上是罗兰当时最底端的复音产品，目的也是打造一款廉价的复音合成器，这一点从各方面都看得出来，单振荡器，两个滤波器，单包络、单LFO无疑是最低配，但是Juno却有着扭转乾坤的一大神器——合唱。虽然这个合唱没有可以调整的参数，但是却有着最为丰厚的声音，同时其立体声效果也是一大亮点，这是罗兰在效果器的路上一步一步走过来的。只要打开合唱，整个声音马上就变的宽广饱满了，有效的弥补了单DCO声音单薄的缺点，这也是“<u><strong>Juno不开合唱不能用</strong></u>”吐槽的由来。</p>
-<p>Juno-6是最早的型号，有着一个琶音器和DCB连接，Juno60加入了预设功能，有64个槽位，而106去掉了琶音器，加入了MIDI、以及128个预设槽位。Juno-106微改了电路设计，听起来更现代，更清澈一点，而Juno-6则更有Analogue的风味，更适合做Bass。目前来看，Juno6的价格最低，106其次，60最高，都是收藏家的宠儿。</p>
-<p>Juno-6的滤波器是典型的罗兰风格，高共鸣时的声音澄澈透明，和Korg MS-20形成了鲜明的对比。并且罗兰使了一个小技巧，滤波器的频率会和键盘按键的频率对其，这样开高共鸣时，共鸣的声音不会与振荡器的声音打架，结合滤波器本身的特性以及独特的合唱，可以制作出以假乱真的Organ音色。</p>
-<p>Juno的颜值也真的很棒，一看就是80年代的风格，配色丰富，在这一点上，Alpha Juno就毫无可比性了。Juno另外一个成功要素就是简单的操作界面，罗兰用有限的参数将你限制在设计好的甜蜜点(Sweet Spot)里，随便调调就能得到好听的音色，面对如此少的推子，想调节什么音色都信手拈来。这一点上JX-3P就吃了大亏，明明规格高于Juno，却因为编辑界面不行混的不如它。</p>
-<p>罗兰以Boutique的形式复刻了Juno，将经典音色装进了小巧的机身中，不过只有4复音+操作捉急，并没有如想象中一样卖爆。如果你想体验Juno的魅力，可以试试TAL的U-NO-LX插件以及Cherry Audio的DCO-106，TAL还出了免费的Juno合唱模拟，同样十分实用。</p>
-<p>如果我要去购买第一台古董琴，那它很可能是Juno，不仅有着处处可用的音色（实际上，我几乎每首歌都会用到Juno插件），还有着永不跑调的防弹级音准，凭借颜值，就算是摆在家里也是一处风景，怎能让人不爱？</p>
-<p><img src="https://i.loli.net/2021/03/06/lqYcJbCUiFBf431.jpg"> </p>
-]]></content>
-      <tags>
-        <tag>罗兰</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我认为值得购买的合成器</title>
     <url>/2021/02/19/%E4%B8%8D%E5%90%8C%E4%BB%B7%E4%BD%8D%E7%9A%84%E5%90%88%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><img src="https://i.loli.net/2021/02/25/yT52jG3RKci4s1Z.png" alt="一堆合成器png.png"></p>
 <p>合成器的世界还是太小了，每年新出的设备也就几款，很多还只是换皮的产品。当然这也怨不得别人，合成器的受众本来就少，而天朝由于各种原因导致电子音乐市场极小，这也让电子音乐的发展受到不少影响。既然你看到了这篇文章，想必你也是对合成器充满兴趣的少数派，有想过自己应该从哪一台琴开始吗？</p>
 <p>本文将介绍一些我认为值得购买的带有键盘合成器，介绍的都是在产或是停产没多久且存量很大的产品。并且，是建立在适合新手，可以深入使用的前提上的，因而采样合成器以及操作难度过大的合成器不在此列。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h1 id="1000元以内"><a href="#1000元以内" class="headerlink" title="1000元以内"></a>1000元以内</h1><p><strong>这个价位显然买不到啥像样的合成器，唯二能推荐的就是<u>Volca Bass</u>和<u>Volca FM</u>了，当然，这两款都没有键盘，单独使用并不好。</strong></p>
 <p>Volca Bass的优势是3个振荡器、步进音序器，还有个不错的滤波器，声音很凶猛，就算是以后升级设备也很难取代它的位置。</p>
@@ -367,26 +328,53 @@
       </tags>
   </entry>
   <entry>
-    <title>免费又好用的OB-Xd</title>
-    <url>/2021/06/02/%E5%85%8D%E8%B4%B9%E5%8F%88%E5%A5%BD%E7%94%A8%E7%9A%84OB-Xd/</url>
-    <content><![CDATA[<p>Oberheim和Sequential构成了80年代初的合成器声音，在Prophet-5大获成功后Oberheim推出了OB-X作为对策。OB-X是Oberheim的第一款可编程复音合成器，也是非常成功的一款产品，不过在1980年，也就是OB-X发布一年后，OB-Xa取代了它的位置。OB-Xa也奠定了Oberheim之后的设计风格——布满蓝色水平线的黑色面板和镂空的白色型号标识。OB-Xa是Oberheim的巅峰产品之一，它的振荡器非常丰满和厚实，而滤波器很是丝滑，与Prophet-5正好相反，Prophet-5的振荡器十分纯净，但是滤波器充满个性。</p>
-<p>Oberheim有着自己的声音，也是最为独特的一类风格，如果你想弹《Jump》，那么就一定需要一台OB系列合成器，不过无论是OB-Xa还是现产的OB-6都很贵，本文就在此推荐一款十分优秀的OB-Xa模拟插件——DiscoDSP的OB-Xd。</p>
-<p>OB-Xd来自于一个社区制作的OB-Xa插件，后由Dis从DSP负责后续开发。OB-Xd不仅保留了OB-X系列的所有功能，还加上了一些独特的设置，同时面板也做到了极为简洁美观，至于声音，这是我用过最好的VA合成器软件之一，相比Arturia的OB-Xa，我觉得更好听，也更好用。</p>
-<p>不用多说了，你可以在<a href="https://www.discodsp.com/obxd/">DiscoDSP的网站</a>内下载这个插件，个人使用免费，如果需要AAX格式或者是商业使用，则可以花49刀买一份授权。</p>
-<p>下方是我做的一张简单的面板说明图，供快速使用参考～</p>
-<p><img src="/images/OB-Xd%E8%AF%B4%E6%98%8E%E5%89%AF%E6%9C%AC.jpg" alt="OB-Xd说明副本"></p>
+    <title>Hello World</title>
+    <url>/1999/06/02/hello-world/</url>
+    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<span id="more"></span>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>人见人爱的Juno</title>
+    <url>/2021/03/06/%E4%BA%BA%E8%A7%81%E4%BA%BA%E7%88%B1%E7%9A%84Juno/</url>
+    <content><![CDATA[<h3 id="带领孩子看到光明的神祇"><a href="#带领孩子看到光明的神祇" class="headerlink" title="带领孩子看到光明的神祇"></a>带领孩子看到光明的神祇</h3><p>也许罗兰的Juno就是这么的温柔吧，当第一次听到Juno-106时，我便被迷住了，我第一次意识到合成器还能如此般的珠圆玉润，清澈通透，当时的我，就像看到了光明的孩子…</p>
+<p><img src="/images/Juno-60.png" alt="Juno-60"></p>
+<p>当然，这里说的是Juno-6、Juno-60以及Juno-106这三个姐妹，Juno1和Juno2两个一直都生活在她们的阴影下，没有活得如此光鲜，只能说谋事在人，成事在天啦哈哈哈。</p>
+<span id="more"></span>
+
+<p>如果说Jupiter系列是外强中干的阳刚之气，那Juno就是含蓄内敛的冰心玉壶，也和名字里的含义一样，如同温柔的神明，声音细腻柔和，温暖细腻。</p>
+<p>Juno实际上是罗兰当时最底端的复音产品，目的也是打造一款廉价的复音合成器，这一点从各方面都看得出来，单振荡器，两个滤波器，单包络、单LFO无疑是最低配，但是Juno却有着扭转乾坤的一大神器——合唱。虽然这个合唱没有可以调整的参数，但是却有着最为丰厚的声音，同时其立体声效果也是一大亮点，这是罗兰在效果器的路上一步一步走过来的。只要打开合唱，整个声音马上就变的宽广饱满了，有效的弥补了单DCO声音单薄的缺点，这也是“<u><strong>Juno不开合唱不能用</strong></u>”吐槽的由来。</p>
+<p>Juno-6是最早的型号，有着一个琶音器和DCB连接，Juno60加入了预设功能，有64个槽位，而106去掉了琶音器，加入了MIDI、以及128个预设槽位。Juno-106微改了电路设计，听起来更现代，更清澈一点，而Juno-6则更有Analogue的风味，更适合做Bass。目前来看，Juno6的价格最低，106其次，60最高，都是收藏家的宠儿。</p>
+<p>Juno-6的滤波器是典型的罗兰风格，高共鸣时的声音澄澈透明，和Korg MS-20形成了鲜明的对比。并且罗兰使了一个小技巧，滤波器的频率会和键盘按键的频率对其，这样开高共鸣时，共鸣的声音不会与振荡器的声音打架，结合滤波器本身的特性以及独特的合唱，可以制作出以假乱真的Organ音色。</p>
+<p>Juno的颜值也真的很棒，一看就是80年代的风格，配色丰富，在这一点上，Alpha Juno就毫无可比性了。Juno另外一个成功要素就是简单的操作界面，罗兰用有限的参数将你限制在设计好的甜蜜点(Sweet Spot)里，随便调调就能得到好听的音色，面对如此少的推子，想调节什么音色都信手拈来。这一点上JX-3P就吃了大亏，明明规格高于Juno，却因为编辑界面不行混的不如它。</p>
+<p>罗兰以Boutique的形式复刻了Juno，将经典音色装进了小巧的机身中，不过只有4复音+操作捉急，并没有如想象中一样卖爆。如果你想体验Juno的魅力，可以试试TAL的U-NO-LX插件以及Cherry Audio的DCO-106，TAL还出了免费的Juno合唱模拟，同样十分实用。</p>
+<p>如果我要去购买第一台古董琴，那它很可能是Juno，不仅有着处处可用的音色（实际上，我几乎每首歌都会用到Juno插件），还有着永不跑调的防弹级音准，凭借颜值，就算是摆在家里也是一处风景，怎能让人不爱？</p>
+<p><img src="https://i.loli.net/2021/03/06/lqYcJbCUiFBf431.jpg"> </p>
 ]]></content>
       <tags>
-        <tag>插件</tag>
-        <tag>推荐</tag>
-        <tag>Oberheim</tag>
+        <tag>杂谈</tag>
+        <tag>罗兰</tag>
       </tags>
   </entry>
   <entry>
     <title>单音五剑客</title>
     <url>/2021/02/08/%E5%8D%95%E9%9F%B3%E4%BA%94%E6%9D%B0/</url>
     <content><![CDATA[<h1 id="单音五剑客"><a href="#单音五剑客" class="headerlink" title="单音五剑客"></a>单音五剑客</h1><p>在那个合成器市场还是一片蓝海的年代，单音合成器是最为普遍的存在。并且，作为合成器最早的存在形式，单音合成器具有毫无疑问的重要意义。这里我挑选了五台最具代表性的单音模拟合成器，说一说它们的故事。<img src="https://i.loli.net/2021/02/08/b6KczWgBLQq2opC.jpg" alt="194.jpg"></p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="Minimoog-Model-D（1971）"><a href="#Minimoog-Model-D（1971）" class="headerlink" title="Minimoog Model D（1971）"></a>Minimoog Model D（1971）</h2><p>可以说：Minimoog重新定义了合成器，它改变了以往（1971年以前）的模块式设计，将简单的功能包装到一个非常小的琴身里（这也是名字里”mini”的来历），大大降低了使用门槛。Minimoog引爆了市场，也使它成为了第一台取得巨大商业成功的合成器（下图为Reissue版）。</p>
 <img src="https://i.loli.net/2021/02/07/RMgLNVOH6k8IUAo.png" alt="Minimoog" />
@@ -480,11 +468,27 @@
       </tags>
   </entry>
   <entry>
+    <title>免费又好用的OB-Xd</title>
+    <url>/2021/06/02/%E5%85%8D%E8%B4%B9%E5%8F%88%E5%A5%BD%E7%94%A8%E7%9A%84OB-Xd/</url>
+    <content><![CDATA[<p>Oberheim和Sequential构成了80年代初的合成器声音，在Prophet-5大获成功后Oberheim推出了OB-X作为对策。OB-X是Oberheim的第一款可编程复音合成器，也是非常成功的一款产品，不过在1980年，也就是OB-X发布一年后，OB-Xa取代了它的位置。OB-Xa也奠定了Oberheim之后的设计风格——布满蓝色水平线的黑色面板和镂空的白色型号标识。OB-Xa是Oberheim的巅峰产品之一，它的振荡器非常丰满和厚实，而滤波器很是丝滑，与Prophet-5正好相反，Prophet-5的振荡器十分纯净，但是滤波器充满个性。</p>
+<p>Oberheim有着自己的声音，也是最为独特的一类风格，如果你想弹《Jump》，那么就一定需要一台OB系列合成器，不过无论是OB-Xa还是现产的OB-6都很贵，本文就在此推荐一款十分优秀的OB-Xa模拟插件——DiscoDSP的OB-Xd。</p>
+<p>OB-Xd来自于一个社区制作的OB-Xa插件，后由Dis从DSP负责后续开发。OB-Xd不仅保留了OB-X系列的所有功能，还加上了一些独特的设置，同时面板也做到了极为简洁美观，至于声音，这是我用过最好的VA合成器软件之一，相比Arturia的OB-Xa，我觉得更好听，也更好用。</p>
+<p>不用多说了，你可以在<a href="https://www.discodsp.com/obxd/">DiscoDSP的网站</a>内下载这个插件，个人使用免费，如果需要AAX格式或者是商业使用，则可以花49刀买一份授权。</p>
+<p>下方是我做的一张简单的面板说明图，供快速使用参考～</p>
+<p><img src="/images/OB-Xd%E8%AF%B4%E6%98%8E%E5%89%AF%E6%9C%AC.jpg" alt="OB-Xd说明副本"></p>
+]]></content>
+      <tags>
+        <tag>插件</tag>
+        <tag>推荐</tag>
+        <tag>Oberheim</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>合成器有哪几种？</title>
     <url>/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/</url>
     <content><![CDATA[<p>工欲善其事，必先利其器，合成器进化了这么多年分类很多，很多人上来问选那种？模拟还是数字好？为什么模拟这么贵？今天我们就来扒一扒合成器的底。</p>
 <p><img src="/images/%E5%90%88%E6%88%90%E5%99%A8%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.jpg" alt="合成器分类树状图"></p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="合成器族谱图"><a href="#合成器族谱图" class="headerlink" title="合成器族谱图"></a>合成器族谱图</h2><p>图上就是当今合成器的大体分类，这是一个比较常见的分类标准，即以模拟/数字为根本差异</p>
 <p>模拟和数字的区别是什么？很简单，模拟合成器依靠电路产生电子信号，经过一系列处理达成最终的声音，再通过放大器放大到线路水平，也就是声音信号。你在面板上看到的振荡器、滤波器等等都是真实存在的，也就是说，你可以在电路板上找到对应的部件。</p>
@@ -540,7 +544,7 @@
     <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
 <p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
 <p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
@@ -579,8 +583,41 @@
 ]]></content>
       <tags>
         <tag>器材党</tag>
-        <tag>罗兰</tag>
         <tag>杂谈</tag>
+        <tag>罗兰</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>宁梵NM2-35欧版本开箱简评</title>
+    <url>/2022/06/22/%E5%AE%81%E6%A2%B5NM2-25%E6%AC%A7%E7%89%88%E6%9C%AC%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84/</url>
+    <content><![CDATA[<p><img src="/images/DSCF3810.jpg" alt="DSCF3810"></p>
+<p>2022年的6月底，宁梵终于更新了NM系列产品线，不过这次带来的不是全新的产品，而是老伙计NM2的35欧高阻版本。</p>
+<p>很多人在使用原版NM2时遇到了底噪问题，这是由于耳机较低的阻抗造成的，35欧版显然要拿这个问题开刀，不过我也很好奇，在更高的阻抗之下，声音会有所不同吗？是进步还是退步？这次就要好好地一探究竟。</p>
+<span id="more"></span>
+
+<h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p><img src="/images/DSCF3800-5868825.jpg" alt="DSCF3800"></p>
+<p><img src="/images/DSCF3801.JPG" alt="DSCF3800"></p>
+<p>先来看看包装吧，除了新增的翠绿配色以及盒子上的35Ω标识，其余部分可以说是和原版NM2一模一样。</p>
+<p>打开，嗯，没错，内容物也是一模一样的，依然是CD式包装设计，左边是说明书和收纳盒以及3.5-6.35转接头与超小号耳套。</p>
+<p><img src="/images/DSCF3806.jpg" alt="DSCF3806"></p>
+<p>右侧就是我们的耳机了 ，一眼就能看出来不同，单元变成了蓝色，是否意味着声音有优化呢？</p>
+<p>透明的塑料外壳在灯光下光彩夺目，我一直很喜欢NM2的工业设计，简洁大气，又不失科技感，材质上也丝毫感受不到廉价。</p>
+<p>此外，耳机上的印字也从白色变成了灰色，还增加了35Ω的标志，侧面的NF Logo也是刻字，总体和NM2基本一致。</p>
+<p><img src="/images/DSCF3802.jpg" alt="DSCF3802"></p>
+<p>耳套一览，我个人的偏好是较硬的均衡套（黑色），不过这个耳套时间长了会松动，导致体验不是很好，宁梵新版的硅胶套快要发布了，希望能根治这一问题。</p>
+<p><img src="/images/DSCF3819.jpg" alt="DSCF3819"></p>
+<h2 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h2><p>不出所料，35Ω版本的声音并没有太大不同，整体依旧是宁梵的大动态高解析风格，但是在一些细节上出现了变化，首先是高频增多了，这是比较出乎意料的一点，因为NM2定位是均衡的声音取向，而原版的高频本身就已不少，35Ω的高频多了一点点，更亮，与此同时也给人一种的解析力增强的感觉。</p>
+<p>中频部分和原版相比是差不多的，量略少，人声听起来薄一些。好在，中频表现十分干净，也就是所谓“漆黑的背景”，除乐音外，没有多余的杂质，对于音乐监听来说，中频的准确度很重要，NM2在这方面足够合格。</p>
+<p>低频咋听之下也没有区别，不过对比一听会发现，低频的速度变快了，声音变“硬”了，底鼓更有冲击力。实际上总体的声音都感觉更“硬”了，更加直白锐利。</p>
+<p>NM2 35Ω版的声音少有渲染，声音都很安稳地待在自己的位置上，这有助于细致地聆听。声场宽度一般，而乐器的前后关系表现很好，我认为35Ω版的低频表现相较更出色，可以清楚地听见贝斯的走向，听清每一个音头，这对于舞台监听和录音也是十分有益的。</p>
+<p>虽然说NM2一直是监听定位，但用来做音乐欣赏也是不错的，不过，倘若用来听华语的流行风格，你大概会失望，因为听起来太平淡了。而NM2高解析，大动态，低频十足的特性在电子音乐里就可以很好的发挥出来，抑或是摇滚、Hiphop、欧美流行里都有非常出色的表现。NM2作为宁梵的支柱产品，其适用性本身就非常广泛，35欧版也继承了这一特性，值得肯定。</p>
+<p><img src="/images/DSCF3814-5869183.jpg" alt="DSCF3814"></p>
+<p>关于提高阻抗，显而易见的原因是，原版NM2的阻抗很低，灵敏度又很高，导致来自声卡、电脑等前端的低噪会非常明显（在NM2+上这个现象更明显了），除了升级设备以外，最简单的方式就是使用阻抗棒了，使用阻抗棒以后，所有的声音包括底噪都会被减弱，而提高输出音量并不会提高底噪，这就达到了提高信噪比的作用，不过阻抗棒本身会增大体积，也会对声音产生微弱影响，所以有一个高阻版将会相当不错。</p>
+<p>不过，35Ω并不能算是高阻抗，实际体验是，低噪有明显降低，但是在一些屏蔽不好或是本身有缺陷的设备上，仍然能分辨出来细微的噪声，所以我相信这不是一个单纯应对底噪的改动，更像是在优化单元的基础上，顺带提高了阻抗。当然，解决底噪的最好方法是从源头下手，也就是换更好的声卡。</p>
+<p>总的来说，我认为35Ω版的NM2是一次小升级，先是优化了底噪问题，其次声音上做出了一些改动，但仍然保持了冷静，细致的声音风格。对于舞台监听，35欧版可用性更高，如果是用来听歌，我也会更推荐35欧的版本，在没有优秀前端的情况下这是非常值得购买的一对耳塞。</p>
+]]></content>
+      <tags>
+        <tag>耳机</tag>
       </tags>
   </entry>
   <entry>
@@ -588,7 +625,7 @@
     <url>/2022/02/22/%E5%AE%81%E6%A2%B5NA2%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</url>
     <content><![CDATA[<p><img src="/images/DSCF3631.jpg" alt="DSCF3631"></p>
 <p>宁梵声学一直是我关注的耳机品牌之一，在先后败入了NM2+与NF8Pro两款塞子之后，我又拿到了一对NA2。按理说NA2才是宁梵正式踏进量产入门级市场的第一款产品，今天我终于有机会写一些这款耳机的使用体验。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p><img src="/images/DSCF3621.jpg" alt="DSCF3621"></p>
 <p>提到宁梵就不得不提到它的包装。NA2与NM2、NM2+的包装几乎一模一样，外盒上印有NA2 In Ear Monitor字样，内部的盒子上印着一个醒目的反光logo，应该是出于成本考量，这个盒子的材质比NM2+上的粗糙不少。</p>
@@ -625,39 +662,6 @@
       </tags>
   </entry>
   <entry>
-    <title>宁梵NM2-35欧版本开箱简评</title>
-    <url>/2022/06/22/%E5%AE%81%E6%A2%B5NM2-25%E6%AC%A7%E7%89%88%E6%9C%AC%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84/</url>
-    <content><![CDATA[<p><img src="/images/DSCF3810.jpg" alt="DSCF3810"></p>
-<p>2022年的6月底，宁梵终于更新了NM系列产品线，不过这次带来的不是全新的产品，而是老伙计NM2的35欧高阻版本。</p>
-<p>很多人在使用原版NM2时遇到了底噪问题，这是由于耳机较低的阻抗造成的，35欧版显然要拿这个问题开刀，不过我也很好奇，在更高的阻抗之下，声音会有所不同吗？是进步还是退步？这次就要好好地一探究竟。</p>
-<a id="more"></a>
-
-<h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p><img src="/images/DSCF3800-5868825.jpg" alt="DSCF3800"></p>
-<p><img src="/images/DSCF3801.JPG" alt="DSCF3800"></p>
-<p>先来看看包装吧，除了新增的翠绿配色以及盒子上的35Ω标识，其余部分可以说是和原版NM2一模一样。</p>
-<p>打开，嗯，没错，内容物也是一模一样的，依然是CD式包装设计，左边是说明书和收纳盒以及3.5-6.35转接头与超小号耳套。</p>
-<p><img src="/images/DSCF3806.jpg" alt="DSCF3806"></p>
-<p>右侧就是我们的耳机了 ，一眼就能看出来不同，单元变成了蓝色，是否意味着声音有优化呢？</p>
-<p>透明的塑料外壳在灯光下光彩夺目，我一直很喜欢NM2的工业设计，简洁大气，又不失科技感，材质上也丝毫感受不到廉价。</p>
-<p>此外，耳机上的印字也从白色变成了灰色，还增加了35Ω的标志，侧面的NF Logo也是刻字，总体和NM2基本一致。</p>
-<p><img src="/images/DSCF3802.jpg" alt="DSCF3802"></p>
-<p>耳套一览，我个人的偏好是较硬的均衡套（黑色），不过这个耳套时间长了会松动，导致体验不是很好，宁梵新版的硅胶套快要发布了，希望能根治这一问题。</p>
-<p><img src="/images/DSCF3819.jpg" alt="DSCF3819"></p>
-<h2 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h2><p>不出所料，35Ω版本的声音并没有太大不同，整体依旧是宁梵的大动态高解析风格，但是在一些细节上出现了变化，首先是高频增多了，这是比较出乎意料的一点，因为NM2定位是均衡的声音取向，而原版的高频本身就已不少，35Ω的高频多了一点点，更亮，与此同时也给人一种的解析力增强的感觉。</p>
-<p>中频部分和原版相比是差不多的，量略少，人声听起来薄一些。好在，中频表现十分干净，也就是所谓“漆黑的背景”，除乐音外，没有多余的杂质，对于音乐监听来说，中频的准确度很重要，NM2在这方面足够合格。</p>
-<p>低频咋听之下也没有区别，不过对比一听会发现，低频的速度变快了，声音变“硬”了，底鼓更有冲击力。实际上总体的声音都感觉更“硬”了，更加直白锐利。</p>
-<p>NM2 35Ω版的声音少有渲染，声音都很安稳地待在自己的位置上，这有助于细致地聆听。声场宽度一般，而乐器的前后关系表现很好，我认为35Ω版的低频表现相较更出色，可以清楚地听见贝斯的走向，听清每一个音头，这对于舞台监听和录音也是十分有益的。</p>
-<p>虽然说NM2一直是监听定位，但用来做音乐欣赏也是不错的，不过，倘若用来听华语的流行风格，你大概会失望，因为听起来太平淡了。而NM2高解析，大动态，低频十足的特性在电子音乐里就可以很好的发挥出来，抑或是摇滚、Hiphop、欧美流行里都有非常出色的表现。NM2作为宁梵的支柱产品，其适用性本身就非常广泛，35欧版也继承了这一特性，值得肯定。</p>
-<p><img src="/images/DSCF3814-5869183.jpg" alt="DSCF3814"></p>
-<p>关于提高阻抗，显而易见的原因是，原版NM2的阻抗很低，灵敏度又很高，导致来自声卡、电脑等前端的低噪会非常明显（在NM2+上这个现象更明显了），除了升级设备以外，最简单的方式就是使用阻抗棒了，使用阻抗棒以后，所有的声音包括底噪都会被减弱，而提高输出音量并不会提高底噪，这就达到了提高信噪比的作用，不过阻抗棒本身会增大体积，也会对声音产生微弱影响，所以有一个高阻版将会相当不错。</p>
-<p>不过，35Ω并不能算是高阻抗，实际体验是，低噪有明显降低，但是在一些屏蔽不好或是本身有缺陷的设备上，仍然能分辨出来细微的噪声，所以我相信这不是一个单纯应对底噪的改动，更像是在优化单元的基础上，顺带提高了阻抗。当然，解决底噪的最好方法是从源头下手，也就是换更好的声卡。</p>
-<p>总的来说，我认为35Ω版的NM2是一次小升级，先是优化了底噪问题，其次声音上做出了一些改动，但仍然保持了冷静，细致的声音风格。对于舞台监听，35欧版可用性更高，如果是用来听歌，我也会更推荐35欧的版本，在没有优秀前端的情况下这是非常值得购买的一对耳塞。</p>
-]]></content>
-      <tags>
-        <tag>耳机</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>属于音乐人的宁梵NM2测评</title>
     <url>/2022/04/22/%E5%B1%9E%E4%BA%8E%E9%9F%B3%E4%B9%90%E4%BA%BA%E7%9A%84%E5%AE%81%E6%A2%B5NM2%E6%B5%8B%E8%AF%84/</url>
     <content><![CDATA[<img src="/images/NM2.jpg" alt="NM2" style="zoom:50%;" />
@@ -671,7 +675,7 @@
 <blockquote>
 <h4 id="“对于我来说，兜里揣着NM2，外出时就多了一份安全感，无论身处何地，都有准确的声音”"><a href="#“对于我来说，兜里揣着NM2，外出时就多了一份安全感，无论身处何地，都有准确的声音”" class="headerlink" title="“对于我来说，兜里揣着NM2，外出时就多了一份安全感，无论身处何地，都有准确的声音”"></a>“对于我来说，兜里揣着NM2，外出时就多了一份安全感，无论身处何地，都有准确的声音”</h4></blockquote>
 <p><strong>NM2</strong>是宁梵第一款“技术下放“的耳机，也是一款相当受欢迎的产品，本篇测评将主要从”音乐人“的视角来评价它的声音，希望能提供足够的参考价值。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="与NA2之对比"><a href="#与NA2之对比" class="headerlink" title="与NA2之对比"></a>与NA2之对比</h2><p>评价NM2就不能不提及NA2，NM2和NA2用的是同一个单元，声音上的差别并不大，但是有一些特点使NM2成为了“监听耳机”。对比下来最直观的感受就是，NM2的声音很“老实”，频率之间的相互影响更少，细节表现更彻底。如果把NA2比做泡温泉，NM2就是淋浴，少了温暖的舒适感，多了一份拨云见雾般的清醒。</p>
 <p>NM2的声音是很正的，NA2是略带两头翘的声音风格，高频和低频量都略多于NM2，但是NM2的高频量也绝不算少，整体偏上盘，200-400Hz的中低频少了一些重量感。老羊说NM2能听清Bass的每一个音头，这点我不完全肯定，因为我不觉得低音表现很棱角分明，主观感受还是其低频的动态表现略差，能听到一团低音，但是看不清轮廓线条。声音在那，缺了些质感。这个问题在NM2+上就要好多了，可惜NM2+的高频量又多了点，这是题外话。NM2是可以胜任编曲扒谱的工作的，提供了足够的总体动态与声音分离度。</p>
@@ -698,7 +702,7 @@
     <url>/2022/10/09/%E6%83%B3%E7%8E%A9%E6%A8%A1%E5%9D%97%EF%BC%9F%E5%85%B3%E4%BA%8EEurorack%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/</url>
     <content><![CDATA[<p>从合成器诞生之初，模块合成器就一直是一个重要的分支，到了今天，仍然有很多人热爱着模块合成器，依靠着开放的标准和极具竞争力的产品，Eurorack成为了当下最热门的模块格式，本文就将带你以正确的姿势入坑Eurorack。</p>
 <p>本文部分内容来自于<a href="https://intellijel.com/support/eurorack-101/">intellijel Eurorack 101</a></p>
-<a id="more"></a>
+<span id="more"></span>
 <h2 id="0-基础篇"><a href="#0-基础篇" class="headerlink" title="0.基础篇"></a>0.基础篇</h2><p>Eurorack是由<u>Dieter Doepfer</u>于19年设计的合成器格式，本质上就是Moog，罗兰等模块合成器规格的缩小版，但是其拥有开放的标准和完善的第一方模块，因此很多第三方厂商加入了这一阵营，现在有着极其庞大的模块数量。</p>
 <h3 id="为什么玩模块？"><a href="#为什么玩模块？" class="headerlink" title="为什么玩模块？"></a>为什么玩模块？</h3><p>在常规的合成器里，振荡器，滤波器，放大器等元件是按照固定的顺序连接的，并且会提供一些有限的调制链路供用户选用。</p>
 <p>然而模块合成器是按照相反的思路设计，将各个部分做成独立的模块，每个模块上有3.5mm接口用来互相连接，由于模块是相对独立的，所以无论如何都需要连线才能够输出声音。这种设计的优点在于，你可以将任何类型的信号接入到任何模块中。</p>
@@ -748,11 +752,20 @@
       </tags>
   </entry>
   <entry>
+    <title>数字合成器VS模拟合成器</title>
+    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我不喜欢罗兰Boutique</title>
     <url>/2021/07/26/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BD%97%E5%85%B0Boutique/</url>
     <content><![CDATA[<p><img src="/images/Roland-Boutique-familia.jpg" alt="Boutique舰队"></p>
 <h2 id="奇怪的Boutique"><a href="#奇怪的Boutique" class="headerlink" title="奇怪的Boutique"></a>奇怪的Boutique</h2><p>当第一次看到Boutique系列时，我心里有一股说不出来的感觉：一方面，我为罗兰能复刻自己的经典产品而感到兴奋，另一方面则是疑惑：为什么要把它们做成这个样子？</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>罗兰在2015年10月1日官宣了Boutique系列的存在，本质上就是把一系列经典产品通过ACB技术浓缩到一本书那么大的小方盒子里，ACB技术其实就是Supernatural技术的后代，所以除了和Studio Electronics一起开发的SE-02，Boutique系列全部都是数字合成器。</p>
 <p>看到这里很多人（包括我）都心凉了半截，毕竟数字模拟和真正意义上的复刻差别有多大我们还是知道的。并且罗兰此前就发不了System-1和System-8，宣称这两者可以完美的模拟多种经典合成器。还有一点，罗兰在宣传Roland Cloud时，说道，Roland Cloud的插件都有着相同的ACB技术，如果我的理解没错的话，插件的声音和这些Boutique是一样的。所以这不免让人感到奇怪，Boutique的小体积显然不是为了现场表演而生的，而在工作室使用的话，插件显然是更好的选择，Boutique系列显然多此一举，不是吗？</p>
@@ -769,15 +782,15 @@
 <h2 id="我不喜欢"><a href="#我不喜欢" class="headerlink" title="我不喜欢"></a>我不喜欢</h2><p>本文标题已经说明了立场，但是声音问题不是我不喜欢它的原因，我真正反感的是罗兰对待这些产品的态度。毫无疑问一线的工程师和程序员都很努力，但是问题在于产品的方向，如果罗兰做一个1:1的复刻，即使是是数字的内核，也会有更多的人买单，而罗兰现在却把自己强大的技术限制在这些4复音的彩色小盒子里，不免让人唏嘘，也许，罗兰的管理层早就失去了对合成器的热爱，再也没有对辉煌遗产的敬畏，根本没有认真对待Boutique的内涵，而是将它们变成了简单的赚钱工具。一件产品有没有用心，是能看得出来的，看一看Korg复刻的Odyssey，再回头看看罗兰，高下立判。当然，你可以说这是方向不同，但是对于我们合成器爱好者而言，罗兰再也不是“We design the future”的形象了，也不难理解，为何梯郁太郎要在耄耋之年退出自己创立的公司了。</p>
 ]]></content>
       <tags>
-        <tag>罗兰</tag>
         <tag>杂谈</tag>
+        <tag>罗兰</tag>
       </tags>
   </entry>
   <entry>
     <title>我对于合成器复刻的看法</title>
     <url>/2021/05/11/%E6%88%91%E5%AF%B9%E4%BA%8E%E5%90%88%E6%88%90%E5%99%A8%E5%A4%8D%E5%88%BB%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
     <content><![CDATA[<p>模拟合成器这东西诞生也有半个世纪了，从一开始的先锋小众到现在的….额….还是小众….总之中间经历了种种大起大落。从产量一万多台的Minimoog到30万台+的DX7，经典的合成器层出不穷。然而再经典，再成功的产品也会迎来停产的命运，特别是那些产量少而难以保存到现在的那些，如何才能在今天重新得到它们的声音呢？</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="周而复刻"><a href="#周而复刻" class="headerlink" title="周而复刻"></a>周而复刻</h2><p>当年，那些在舞台上大放异彩的合成器进入了一张张专辑里，构成了我们熟知的80年代声音。之后随着数字技术的发展，那些青春不再的产品们被丢进了垃圾桶，运气好一点的则落入了年轻的音乐人手里，静待未来的觉醒。</p>
 <p>但是电子产品也会坏，这么多年之后，该出现的毛病也都出现了，很多产品都陷入了无法维修的困境，可谓是坏一台少一台，这时候，不得不说时尚就是个圈，随着模拟合成器的复兴热潮，它们又以复刻的形式回来了。</p>
@@ -793,25 +806,12 @@
       </tags>
   </entry>
   <entry>
-    <title>模拟数字，只要是好的那就是好的</title>
-    <url>/2022/04/22/%E6%A8%A1%E6%8B%9F%E6%95%B0%E5%AD%97%EF%BC%8C%E5%8F%AA%E8%A6%81%E6%98%AF%E5%A5%BD%E7%9A%84%E9%82%A3%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</url>
-    <content><![CDATA[<p>可能从数字合成器诞生那天，模拟和数字之争就没有断过，模拟合成器的声音厚实，延展好，可是数字合成器也有自己的优点呀，永远不跑调，调制能力强，能做出全新的声音。其实我个人更喜欢数字合成器，毕竟，不是所有人都只需要两个锯齿波再加一个低通滤波器。</p>
-<p>​        但我想说的远不是个人喜好这么简单，争论哪个更好并没有意义，因为决定一个合成器好不好的，只有它的声音本身，而不是冰冷的数据。罗兰D-50声音好吗？毋庸置疑，但是如果不听声音只看参数：超短的采样时长，毫无灵魂的VA引擎，低成本DAC，你是不会想到它的声音多么棒的。模拟合成器也是如此例如ARP AXXE，只有单VCO和单VCF，然而就算这样，声音也非常肥厚，VCA的质量也是数一数二。</p>
-<p>也许，模拟和数字的差距其实没有我们想象中的那么大，三体的新EQ已经实现了117bit的内部运算精度，在这样的细分数值下，数字和模拟本质上的区别也淡化了，特别是之前提到的Model 84，人耳完全无法辨认，参数匹配时和原琴别无二致。</p>
-<p>还有一个引发我思考的点是Tone2的Saurus，这个插件很有模拟感，声音密度直逼模拟琴，但是在此之上还有浓浓的数字味，一听就知道这个是软件，同时呢，声音也非常好听，也就是说，好听的数字味和好听的模拟味是可以共存的，就像是用油彩画的水墨画一样。深度使用完以后我就很难离开它了，也许有一天，完美的数字合成器和完美的模拟合成器会被证明是等价的吧。</p>
-<p>​        扯远了，不过还是希望各位，不要带着有色眼镜看数字合成器，也不要把Rompler和预设看作洪水猛兽，好的声音就像一架精心打造的斯坦威钢琴，是不会过时的。</p>
-]]></content>
-      <tags>
-        <tag>合成器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>深水炸弹-宁梵NE4详细测评</title>
     <url>/2022/05/21/%E6%B7%B1%E6%B0%B4%E7%82%B8%E5%BC%B9-%E5%AE%81%E6%A2%B5NE4/</url>
     <content><![CDATA[<img src="/images/DSCF3710 1.jpg" alt="DSCF3710 1" style="zoom:50%;" />
 
 <p>宁梵似乎是想给这个沉闷的耳机市场来一剂猛药，NE4作为一款理念非常前卫的产品，从发布第一天就引人注目。不过在使用了一段时间后，我却很难给NE4下一个定论，我觉得NE4是一款优点与缺点都很突出的产品，这篇测评我将谈谈我对NE4声音的评价，以及个人对NE4理念的理解。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p>从包装就能看出来，宁梵一定对NE4报以厚望的，NE4的完全可以用过度包装来形容，以至于我花费了近一个小时才走完开箱流程orz。</p>
 <p>先来看看包装盒的大小，大概有两个NM2的盒子那么大，结构也很不一样。</p>
@@ -879,12 +879,16 @@
       </tags>
   </entry>
   <entry>
-    <title>数字合成器VS模拟合成器</title>
-    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+    <title>模拟数字，只要是好的那就是好的</title>
+    <url>/2022/04/22/%E6%A8%A1%E6%8B%9F%E6%95%B0%E5%AD%97%EF%BC%8C%E5%8F%AA%E8%A6%81%E6%98%AF%E5%A5%BD%E7%9A%84%E9%82%A3%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</url>
+    <content><![CDATA[<p>可能从数字合成器诞生那天，模拟和数字之争就没有断过，模拟合成器的声音厚实，延展好，可是数字合成器也有自己的优点呀，永远不跑调，调制能力强，能做出全新的声音。其实我个人更喜欢数字合成器，毕竟，不是所有人都只需要两个锯齿波再加一个低通滤波器。</p>
+<p>​        但我想说的远不是个人喜好这么简单，争论哪个更好并没有意义，因为决定一个合成器好不好的，只有它的声音本身，而不是冰冷的数据。罗兰D-50声音好吗？毋庸置疑，但是如果不听声音只看参数：超短的采样时长，毫无灵魂的VA引擎，低成本DAC，你是不会想到它的声音多么棒的。模拟合成器也是如此例如ARP AXXE，只有单VCO和单VCF，然而就算这样，声音也非常肥厚，VCA的质量也是数一数二。</p>
+<p>也许，模拟和数字的差距其实没有我们想象中的那么大，三体的新EQ已经实现了117bit的内部运算精度，在这样的细分数值下，数字和模拟本质上的区别也淡化了，特别是之前提到的Model 84，人耳完全无法辨认，参数匹配时和原琴别无二致。</p>
+<p>还有一个引发我思考的点是Tone2的Saurus，这个插件很有模拟感，声音密度直逼模拟琴，但是在此之上还有浓浓的数字味，一听就知道这个是软件，同时呢，声音也非常好听，也就是说，好听的数字味和好听的模拟味是可以共存的，就像是用油彩画的水墨画一样。深度使用完以后我就很难离开它了，也许有一天，完美的数字合成器和完美的模拟合成器会被证明是等价的吧。</p>
+<p>​        扯远了，不过还是希望各位，不要带着有色眼镜看数字合成器，也不要把Rompler和预设看作洪水猛兽，好的声音就像一架精心打造的斯坦威钢琴，是不会过时的。</p>
 ]]></content>
       <tags>
-        <tag>器材党</tag>
+        <tag>合成器</tag>
       </tags>
   </entry>
   <entry>
@@ -901,91 +905,10 @@
       </tags>
   </entry>
   <entry>
-    <title>科普：什么是弦乐合成器？</title>
-    <url>/2021/08/31/%E7%A7%91%E6%99%AE%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%A6%E4%B9%90%E5%90%88%E6%88%90%E5%99%A8%EF%BC%9F/</url>
-    <content><![CDATA[<p>虽然现在已经几乎绝迹，但是合成器玩家都会知道，在70-80年代间，曾流行过一个十分独特的合成器门类：弦乐合成器。</p>
-<img src="/images/arp-solina-string-ensemble-1018946.jpg" alt="arp-solina-string-ensemble-1018946" style="zoom: 50%;" />
-
-<a id="more"></a>
-
-<h2 id="短暂而光辉的历史"><a href="#短暂而光辉的历史" class="headerlink" title="短暂而光辉的历史"></a><strong>短暂而光辉的历史</strong></h2><p>弦乐合成器是合成器早期时代的产物，与其说是合成器，它们更像是模拟合成器与电子风琴诞下的私生子，在那个合成器及其昂贵的年代里，弦乐合成器成了丰富和弦伴奏的最佳选择。催生这种产品的很大一部分原因也是新兴的合成器市场对于复音合成器的需求，弦乐合成器很好地填补了这一空白，而到了80年代后，复音合成器如雨后春笋般出现，从高级的Prophet-5到入门的Juno-6，再到杀手级的DX7，以及可以发出真正弦乐声音的采样器，单一音色的弦乐合成器再无生存空间，淡出了市场。</p>
-<p>这些产品都是模拟合成器，通过切分振荡器来实现全复音，然后再用合唱效果器达到增厚音色的效果，它们往往基于预设，没有什么可调空间。大部分情况下，你所能做的就是调节某个声部的音量，开启/关闭合唱罢了。不少弦乐机还带有风琴声部，甚至是简单的合成器部分，这些琴往往被冠以Combo的称号，因为你可以同时演奏多个音色，其中的一个代表就是雅马哈SK-30，是雅马哈当时的主打产品之一，有着非常真实的Leslie风琴声音，除此之外还有Solo、弦乐、合成器一共四个声部。</p>
-<p><img src="/images/yamaha-sk30-206905.jpg" alt="yamaha-sk30-206905"></p>
-<p>弦乐合成器并不是真正的复音合成器（Polyphonic），它们被称为Paraphonic，也就是说所有的声部会汇总在一起经过同一个滤波器和放大器，也就是说每个音符不会有独立的音色变化，音色塑造是建立在整体上的，这是节省成本的一个重要举措。</p>
-<p>在<a href="https://www.bilibili.com/video/BV13r4y1c7y3">这个</a>视频中，你可以听到几款著名弦乐合成器的声音</p>
-<p><a href="https://www.bilibili.com/video/BV13r4y1c7y3">https://www.bilibili.com/video/BV13r4y1c7y3</a></p>
-<h2 id="经典产品"><a href="#经典产品" class="headerlink" title="经典产品"></a>经典产品</h2><p>那时，各厂商都加入了弦乐机的蓝海，中，纷纷推出了自己的产品，我在这里列出当时的几款经典产品，供读者参考。</p>
-<p><strong>1.罗兰RS-202</strong></p>
-<p><img src="/images/Roland_RS-202_1_1024x1024@2x.jpg" alt="Roland_RS-202_1_1024x1024@2x"></p>
-<p>这是罗兰的第二款弦乐合成器，此前的RS-101并无巨大差别，但却取得了巨大成功，成为了迪斯科音乐中弦乐声音的流行之选，它的声音由两个弦乐声部和一个管乐声部（虽然一点也不像管乐）组成，5个八度的键盘被分割成了左2八度和右3八度，分别演奏不同的声音，202带来了LFO颤音延迟以及罗兰经典永流传的合唱效果器。</p>
-<p>202是罗兰最重要的产品之一，在当时的市场站稳了脚跟，202甚至引来了一个叫Multivox MX-202的一比一“致敬”产品，可以说是十分成功了。</p>
-<p><strong>2.ARP Solina String Ensemble</strong></p>
-<p><img src="/images/1970-arp-solina-9.jpg" alt="1970-arp-solina-9"></p>
-<p>本文的头图就是这个，是ARP与Solina公司的合作产品，来源于Eminent 310U风琴的弦乐部分，ARP对其做了改进，做出了世界上最棒的弦乐合成器之一。</p>
-<p>这款产品的声音丰满、温暖，带有模拟合成器特有的味道，锐利的声音时时吸引着人的注意力。它的一大卖点是，你可以按下一个和弦，然后只要不松手，声音就会一直持续下去，当时的同类产品往往是有限包络，发出的声音长度并不是无限的，Solina的合唱效果器也是独具特色，并不是如罗兰版细腻宽广，是一种充满活力感，动态十足的声音。</p>
-<p><strong>3.Korg Trident</strong></p>
-<p><img src="/images/Korg-Trident.jpeg" alt="Korg Trident"></p>
-<p>Korg当时的旗舰产品，与其余产品不同，是一个真复音的合成器，他有8复音，有合成器、管乐和弦乐三个声部，每个声部都有独立的压控滤波器，它可控的参数非常多，还有16个（MK II里是32个）用户预设存储。</p>
-<p>Trident的一大亮点是板载的镶边效果器，不仅可调性很高，它甚至可以自激振荡！</p>
-<p>Trident的声音厚实温暖，很有高级模拟合成器的味道，平静的声音之下是汹涌的暗流，声音仿佛带有魔法，是不可多得的传奇产品。</p>
-<h2 id="文艺复兴"><a href="#文艺复兴" class="headerlink" title="文艺复兴"></a><strong>文艺复兴</strong></h2><p>众所周知，我们正处于模拟合成器的复古热潮中，弦乐合成器也不例外，它们又被擦去灰尘，回到了舞台和工作室里。人们发现了弦乐合成器的独特之处，那种宽宏、饱满却怎么也不像真实弦乐的合成音色，如今显得十分可贵，随着许多例如Arturia Solina V这样的插件出现，弦乐机的精神续作也出现了——Waldorf Striechfett。</p>
-<img src="/images/Waldorf-Streichfett-Shiny.jpg" alt="Waldorf-Streichfett-Shiny" style="zoom:50%;" />
-
-<p>与上面的合成器不同的是，Streichfett是一款数字合成器，并且，它是2014年发布的，也是最近20年唯一的弦乐合成器。这款产品和此前发布的Rocket以及2-Pole有着非常相似的外观，但是内部装着一颗复古的心。Streichfett没有尝试去模仿任何一款弦乐机，而是创造了自己的声音，它的声音偏向细腻而更具电影感，用一个旋钮来无缝结合各种声部的设计也非常天才，加上各种效果器以及音色存储功能可以说，这是弦乐合成器的一款集大成者，上面的视频中也可以听到它的声音。</p>
-<p>Striechfett在国内可以以2000元的价格买到。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>弦乐合成器的声音总是带有一种坚硬的内核，许多人认为这是由切分振荡器带来的，所有的音符都来源于同一个振荡器，所以它们之间没有相位差异，这是其它合成器所做不到的。现在，弦乐机的价值被重新发现，在许多音乐里可以听到它们的声音，最后，让我们用一首歌来结束这篇文章吧。</p>
-<p><a href="https://music.163.com/#/outchain/2/27959002/">https://music.163.com/#/outchain/2/27959002/</a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27959002&auto=1&height=66"></iframe>
-]]></content>
-      <tags>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>经典合成器的经典故障</title>
-    <url>/2021/05/14/%E7%BB%8F%E5%85%B8%E5%90%88%E6%88%90%E5%99%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E6%95%85%E9%9A%9C/</url>
-    <content><![CDATA[<p>本文部分资料来自<a href="https://reverb.com/news/the-most-common-maintenance-issues-of-22-classic-synths-and-how-to-fix-them">The Most Common Maintenance Issues of 22 Classic Synths | Reverb News</a></p>
-<p>模拟合成器正在经历一波复兴热潮，很多古董琴成为了被追求的对象，而它们的价格也水涨船高。然而，任何产品都不是完美的，再经典的产品也有其缺陷，今天我们就来看一看那些经典产品上常见的缺陷。</p>
-<a id="more"></a>
-
-<h3 id="Juno-106-声音芯片损坏"><a href="#Juno-106-声音芯片损坏" class="headerlink" title="Juno-106:声音芯片损坏"></a>Juno-106:声音芯片损坏</h3><p><img src="/Users/duanliyan/synthfever/source/images/roland-juno-106-1468504.jpg" alt="roland-juno-106-1468504"></p>
-<p>Juno-106的声音由6个独立的芯片版产生，这六个芯片板由一层树脂包裹。这可能是用来保持温度稳定和隐藏电路设计所做的处理，不过在若干年后，它们会老化，从而变得易于带电，同时也易吸收湿气，从而导致内部短路。这会使你得到奇怪的共鸣，失真的声音，或者是根本没有声音。这就是Juno-106几乎必然会发生的故障。</p>
-<img src="/Users/duanliyan/synthfever/source/images/Juno-Chips_qju4bv.jpg" alt="Juno-Chips_qju4bv" style="zoom:50%;" />
-
-<p>好在，现在你可以买到替换用的电路板，也有机会在其发生故障前妥善处理，如果你有一台完全原装的Juno，它值得好好保存。</p>
-<h3 id="Korg-Polysix、Korg-Poly-61-电池漏液"><a href="#Korg-Polysix、Korg-Poly-61-电池漏液" class="headerlink" title="Korg Polysix、Korg Poly 61:电池漏液"></a>Korg Polysix、Korg Poly 61:电池漏液</h3><p><img src="/Users/duanliyan/synthfever/source/images/PolySix.jpeg" alt="PolySix"></p>
-<p>内部电池漏液是几乎所有古董电子产品的通病，不过，在Poly-61和PolySix上，这一问题尤为严重，因为它们的电池就放在CPU附近，这会影响预设储存和参数设置等问题。</p>
-<p>长时间放置后，电池的碱液会渗透出来，碱液会腐蚀电路板和其中的原件，并且这一损害是不可逆的，如果你的PolySix已经发生了漏液，你需要迅速更换电池，并且用弱酸清洁被腐蚀的电路板，这样才能解决这一问题。</p>
-<h3 id="Roland-TR-606、TB-303-电池漏液、开关失灵"><a href="#Roland-TR-606、TB-303-电池漏液、开关失灵" class="headerlink" title="Roland TR-606、TB-303:电池漏液、开关失灵"></a>Roland TR-606、TB-303:电池漏液、开关失灵</h3><p><img src="/Users/duanliyan/synthfever/source/images/303&606.jpg" alt="303&amp;606"></p>
-<p>这两个便宜货出问题是一点也不奇怪，电池漏液是与上面Polysix几乎一样的问题</p>
-<p>303和606都是很耐用的设备，但是这俩货的按键并不是那么可靠，因为年代的缘故，303和606的按键经常双击，甚至是完全不起作用。</p>
-<p>解决的方法也很简单，只要换一对全新的微动开关就可以让它们重新焕发生机。</p>
-<h3 id="Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化"><a href="#Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化" class="headerlink" title="Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化"></a>Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化</h3><p><img src="/Users/duanliyan/synthfever/source/images/Matrix-6.jpeg" alt="Matrix-6"></p>
-<p>Matrix6是一台惊人的合成器，与Matrix 12一样，各方面都是当时的顶级水准，但是它们搭载的显示屏在时间长了以后会老化，主要表现就是亮度变暗，虽然你可以在一定程度上调整亮度，但是总会有一天屏幕会达到无法使用的程度。DX7也差不多，所采用的LCD显示屏在数十年以后会丧失对比度，变得很难读出任何内容。</p>
-<p>这些屏幕的替换零件已经停止生产，所以只能寻找客制化的零件，如果可能，将它们换成OLED屏是一个不错的选择。</p>
-<p><strong>Sequential Circuits Prophet 600、Moog Source、Fender Chroma Polaris:薄膜开关失效</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/moog-source-1.png" alt="moog-source-1"></p>
-<p>当年的薄膜开关很是流行，如果你不知道它们是什么，就想一想从前洗衣机上的按钮是什么样子。这些薄膜开关被许多的经典合成器所采用，但是在时间的洗礼之下，许多薄膜开关都不再灵敏（还记得洗衣机上面的按钮吗）。同样，现在想要更换这些开关也是难上加难，所以，如果你打算购买这样的合成器，一定要确保这些开关都好使。</p>
-<p><strong>ARP Odyssey、ARP Omni、ARP Axxe、ARP 2600:电容损坏</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/arp-omni-1-193-03.jpg" alt="arp-omni-1-193-03"></p>
-<p>ARP在自己的电源上使用了钽电容，这样可以使电压稳定。而在一些需要精确电压的电路里，钽电容也被使用。钽电容相比其他部件更容易坏，一般的故障是短路，而这是个严重的故障，如果电源出了故障，其下游的原件也会一起受损，最终整台合成器就完全损坏了。</p>
-<p>更换一个电源是最好的解决方案，不过对于ARP Omni来说，它的每一个按键下都有一个钽电容，所以，如果可能的话，将所有的部件重新更换一遍会很有益。</p>
-<p><strong>Realistic/Moog MG-1: Protective:泡沫降解</strong></p>
-<p>![MOOG MG-1](/Users/duanliyan/synthfever/source/images/MOOG MG-1.jpeg)</p>
-<p>1982年，Moog为Realistic生产了MG-1合成器，这是一款低成本的产品，所以难免使用了更加便宜的部件。MG-1在推子和主面板之间垫了一层黑色的保护海绵。不过这种海绵的化学结构不太稳定，随着时间推移，它们会讲解，变成黏胶一样的东西，然后，开关和推子就被粘住了。清洁它们难度很大，而且在清洁之后，它们也可能会失去原有的功能，这也是这台合成器如此稀有的一个原因。</p>
-<p><strong>Oberheim DX/DMX, Emu Drumulator, SP-12, SP-1200: 开关失效</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/oberheim-dx-1.jpg" alt="oberheim-dx-1"></p>
-<p>早期的经典鼓机都用了类似的开关，这种开关会随着灰尘的积累逐渐失效，在这个视频中你可以看到修复它们的方法<a href="https://www.youtube.com/watch?v=pImvzSE5wjQ">https://www.youtube.com/watch?v=pImvzSE5wjQ</a></p>
-]]></content>
-      <tags>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玩合成器必懂的20个合成器名词（入门必看）</title>
     <url>/2021/04/09/%E7%8E%A9%E5%90%88%E6%88%90%E5%99%A8%E5%BF%85%E6%87%82%E7%9A%8420%E4%B8%AA%E5%90%88%E6%88%90%E5%99%A8%E5%90%8D%E8%AF%8D/</url>
     <content><![CDATA[<h1 id="玩好合成器必懂的20个名词"><a href="#玩好合成器必懂的20个名词" class="headerlink" title="玩好合成器必懂的20个名词"></a>玩好合成器必懂的20个名词</h1><p><img src="/images/DX7.jpeg" alt="DX7"></p>
-<a id="more"></a>
+<span id="more"></span>
 
 <h3 id="1-VCO-Voltage-Controlled-Oscillator-压控振荡器"><a href="#1-VCO-Voltage-Controlled-Oscillator-压控振荡器" class="headerlink" title="1.VCO (Voltage Controlled Oscillator) 压控振荡器"></a><strong>1.VCO (Voltage Controlled Oscillator) 压控振荡器</strong></h3><p>压控振荡器，也就是用电压控制音高的振荡器，依靠振荡电路产生波形信号。VCO是最早的振荡器形式之一，出现在了几乎所有的模拟合成器中。</p>
 <h3 id="2-DCO-Digital-Controlled-Oscillator-数控振荡器"><a href="#2-DCO-Digital-Controlled-Oscillator-数控振荡器" class="headerlink" title="2.DCO (Digital Controlled Oscillator) 数控振荡器"></a><strong>2.DCO (Digital Controlled Oscillator) 数控振荡器</strong></h3><p>数控振荡器，使用数字时钟电路来控制音高，可以保证音高的绝对稳定（这是VCO的一大难点），不过由于原理限制，难以实现FM调制和AM调制，首次出现在Roland Juno-6上，在之后的Korg Poly 800、Prophet Rev2等产品上都有它的身影。</p>
@@ -1034,11 +957,133 @@
       </tags>
   </entry>
   <entry>
+    <title>科普：什么是弦乐合成器？</title>
+    <url>/2021/08/31/%E7%A7%91%E6%99%AE%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%A6%E4%B9%90%E5%90%88%E6%88%90%E5%99%A8%EF%BC%9F/</url>
+    <content><![CDATA[<p>虽然现在已经几乎绝迹，但是合成器玩家都会知道，在70-80年代间，曾流行过一个十分独特的合成器门类：弦乐合成器。</p>
+<img src="/images/arp-solina-string-ensemble-1018946.jpg" alt="arp-solina-string-ensemble-1018946" style="zoom: 50%;" />
+
+<span id="more"></span>
+
+<h2 id="短暂而光辉的历史"><a href="#短暂而光辉的历史" class="headerlink" title="短暂而光辉的历史"></a><strong>短暂而光辉的历史</strong></h2><p>弦乐合成器是合成器早期时代的产物，与其说是合成器，它们更像是模拟合成器与电子风琴诞下的私生子，在那个合成器及其昂贵的年代里，弦乐合成器成了丰富和弦伴奏的最佳选择。催生这种产品的很大一部分原因也是新兴的合成器市场对于复音合成器的需求，弦乐合成器很好地填补了这一空白，而到了80年代后，复音合成器如雨后春笋般出现，从高级的Prophet-5到入门的Juno-6，再到杀手级的DX7，以及可以发出真正弦乐声音的采样器，单一音色的弦乐合成器再无生存空间，淡出了市场。</p>
+<p>这些产品都是模拟合成器，通过切分振荡器来实现全复音，然后再用合唱效果器达到增厚音色的效果，它们往往基于预设，没有什么可调空间。大部分情况下，你所能做的就是调节某个声部的音量，开启/关闭合唱罢了。不少弦乐机还带有风琴声部，甚至是简单的合成器部分，这些琴往往被冠以Combo的称号，因为你可以同时演奏多个音色，其中的一个代表就是雅马哈SK-30，是雅马哈当时的主打产品之一，有着非常真实的Leslie风琴声音，除此之外还有Solo、弦乐、合成器一共四个声部。</p>
+<p><img src="/images/yamaha-sk30-206905.jpg" alt="yamaha-sk30-206905"></p>
+<p>弦乐合成器并不是真正的复音合成器（Polyphonic），它们被称为Paraphonic，也就是说所有的声部会汇总在一起经过同一个滤波器和放大器，也就是说每个音符不会有独立的音色变化，音色塑造是建立在整体上的，这是节省成本的一个重要举措。</p>
+<p>在<a href="https://www.bilibili.com/video/BV13r4y1c7y3">这个</a>视频中，你可以听到几款著名弦乐合成器的声音</p>
+<p><a href="https://www.bilibili.com/video/BV13r4y1c7y3">https://www.bilibili.com/video/BV13r4y1c7y3</a></p>
+<h2 id="经典产品"><a href="#经典产品" class="headerlink" title="经典产品"></a>经典产品</h2><p>那时，各厂商都加入了弦乐机的蓝海，中，纷纷推出了自己的产品，我在这里列出当时的几款经典产品，供读者参考。</p>
+<p><strong>1.罗兰RS-202</strong></p>
+<p><img src="/images/Roland_RS-202_1_1024x1024@2x.jpg" alt="Roland_RS-202_1_1024x1024@2x"></p>
+<p>这是罗兰的第二款弦乐合成器，此前的RS-101并无巨大差别，但却取得了巨大成功，成为了迪斯科音乐中弦乐声音的流行之选，它的声音由两个弦乐声部和一个管乐声部（虽然一点也不像管乐）组成，5个八度的键盘被分割成了左2八度和右3八度，分别演奏不同的声音，202带来了LFO颤音延迟以及罗兰经典永流传的合唱效果器。</p>
+<p>202是罗兰最重要的产品之一，在当时的市场站稳了脚跟，202甚至引来了一个叫Multivox MX-202的一比一“致敬”产品，可以说是十分成功了。</p>
+<p><strong>2.ARP Solina String Ensemble</strong></p>
+<p><img src="/images/1970-arp-solina-9.jpg" alt="1970-arp-solina-9"></p>
+<p>本文的头图就是这个，是ARP与Solina公司的合作产品，来源于Eminent 310U风琴的弦乐部分，ARP对其做了改进，做出了世界上最棒的弦乐合成器之一。</p>
+<p>这款产品的声音丰满、温暖，带有模拟合成器特有的味道，锐利的声音时时吸引着人的注意力。它的一大卖点是，你可以按下一个和弦，然后只要不松手，声音就会一直持续下去，当时的同类产品往往是有限包络，发出的声音长度并不是无限的，Solina的合唱效果器也是独具特色，并不是如罗兰版细腻宽广，是一种充满活力感，动态十足的声音。</p>
+<p><strong>3.Korg Trident</strong></p>
+<p><img src="/images/Korg-Trident.jpeg" alt="Korg Trident"></p>
+<p>Korg当时的旗舰产品，与其余产品不同，是一个真复音的合成器，他有8复音，有合成器、管乐和弦乐三个声部，每个声部都有独立的压控滤波器，它可控的参数非常多，还有16个（MK II里是32个）用户预设存储。</p>
+<p>Trident的一大亮点是板载的镶边效果器，不仅可调性很高，它甚至可以自激振荡！</p>
+<p>Trident的声音厚实温暖，很有高级模拟合成器的味道，平静的声音之下是汹涌的暗流，声音仿佛带有魔法，是不可多得的传奇产品。</p>
+<h2 id="文艺复兴"><a href="#文艺复兴" class="headerlink" title="文艺复兴"></a><strong>文艺复兴</strong></h2><p>众所周知，我们正处于模拟合成器的复古热潮中，弦乐合成器也不例外，它们又被擦去灰尘，回到了舞台和工作室里。人们发现了弦乐合成器的独特之处，那种宽宏、饱满却怎么也不像真实弦乐的合成音色，如今显得十分可贵，随着许多例如Arturia Solina V这样的插件出现，弦乐机的精神续作也出现了——Waldorf Striechfett。</p>
+<img src="/images/Waldorf-Streichfett-Shiny.jpg" alt="Waldorf-Streichfett-Shiny" style="zoom:50%;" />
+
+<p>与上面的合成器不同的是，Streichfett是一款数字合成器，并且，它是2014年发布的，也是最近20年唯一的弦乐合成器。这款产品和此前发布的Rocket以及2-Pole有着非常相似的外观，但是内部装着一颗复古的心。Streichfett没有尝试去模仿任何一款弦乐机，而是创造了自己的声音，它的声音偏向细腻而更具电影感，用一个旋钮来无缝结合各种声部的设计也非常天才，加上各种效果器以及音色存储功能可以说，这是弦乐合成器的一款集大成者，上面的视频中也可以听到它的声音。</p>
+<p>Striechfett在国内可以以2000元的价格买到。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>弦乐合成器的声音总是带有一种坚硬的内核，许多人认为这是由切分振荡器带来的，所有的音符都来源于同一个振荡器，所以它们之间没有相位差异，这是其它合成器所做不到的。现在，弦乐机的价值被重新发现，在许多音乐里可以听到它们的声音，最后，让我们用一首歌来结束这篇文章吧。</p>
+<p><a href="https://music.163.com/#/outchain/2/27959002/">https://music.163.com/#/outchain/2/27959002/</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27959002&auto=1&height=66"></iframe>
+]]></content>
+      <tags>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>经典合成器的经典故障</title>
+    <url>/2021/05/14/%E7%BB%8F%E5%85%B8%E5%90%88%E6%88%90%E5%99%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E6%95%85%E9%9A%9C/</url>
+    <content><![CDATA[<p>本文部分资料来自<a href="https://reverb.com/news/the-most-common-maintenance-issues-of-22-classic-synths-and-how-to-fix-them">The Most Common Maintenance Issues of 22 Classic Synths | Reverb News</a></p>
+<p>模拟合成器正在经历一波复兴热潮，很多古董琴成为了被追求的对象，而它们的价格也水涨船高。然而，任何产品都不是完美的，再经典的产品也有其缺陷，今天我们就来看一看那些经典产品上常见的缺陷。</p>
+<span id="more"></span>
+
+<h3 id="Juno-106-声音芯片损坏"><a href="#Juno-106-声音芯片损坏" class="headerlink" title="Juno-106:声音芯片损坏"></a>Juno-106:声音芯片损坏</h3><p><img src="/Users/duanliyan/synthfever/source/images/roland-juno-106-1468504.jpg" alt="roland-juno-106-1468504"></p>
+<p>Juno-106的声音由6个独立的芯片版产生，这六个芯片板由一层树脂包裹。这可能是用来保持温度稳定和隐藏电路设计所做的处理，不过在若干年后，它们会老化，从而变得易于带电，同时也易吸收湿气，从而导致内部短路。这会使你得到奇怪的共鸣，失真的声音，或者是根本没有声音。这就是Juno-106几乎必然会发生的故障。</p>
+<img src="/Users/duanliyan/synthfever/source/images/Juno-Chips_qju4bv.jpg" alt="Juno-Chips_qju4bv" style="zoom:50%;" />
+
+<p>好在，现在你可以买到替换用的电路板，也有机会在其发生故障前妥善处理，如果你有一台完全原装的Juno，它值得好好保存。</p>
+<h3 id="Korg-Polysix、Korg-Poly-61-电池漏液"><a href="#Korg-Polysix、Korg-Poly-61-电池漏液" class="headerlink" title="Korg Polysix、Korg Poly 61:电池漏液"></a>Korg Polysix、Korg Poly 61:电池漏液</h3><p><img src="/Users/duanliyan/synthfever/source/images/PolySix.jpeg" alt="PolySix"></p>
+<p>内部电池漏液是几乎所有古董电子产品的通病，不过，在Poly-61和PolySix上，这一问题尤为严重，因为它们的电池就放在CPU附近，这会影响预设储存和参数设置等问题。</p>
+<p>长时间放置后，电池的碱液会渗透出来，碱液会腐蚀电路板和其中的原件，并且这一损害是不可逆的，如果你的PolySix已经发生了漏液，你需要迅速更换电池，并且用弱酸清洁被腐蚀的电路板，这样才能解决这一问题。</p>
+<h3 id="Roland-TR-606、TB-303-电池漏液、开关失灵"><a href="#Roland-TR-606、TB-303-电池漏液、开关失灵" class="headerlink" title="Roland TR-606、TB-303:电池漏液、开关失灵"></a>Roland TR-606、TB-303:电池漏液、开关失灵</h3><p><img src="/Users/duanliyan/synthfever/source/images/303&606.jpg" alt="303&amp;606"></p>
+<p>这两个便宜货出问题是一点也不奇怪，电池漏液是与上面Polysix几乎一样的问题</p>
+<p>303和606都是很耐用的设备，但是这俩货的按键并不是那么可靠，因为年代的缘故，303和606的按键经常双击，甚至是完全不起作用。</p>
+<p>解决的方法也很简单，只要换一对全新的微动开关就可以让它们重新焕发生机。</p>
+<h3 id="Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化"><a href="#Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化" class="headerlink" title="Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化"></a>Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化</h3><p><img src="/Users/duanliyan/synthfever/source/images/Matrix-6.jpeg" alt="Matrix-6"></p>
+<p>Matrix6是一台惊人的合成器，与Matrix 12一样，各方面都是当时的顶级水准，但是它们搭载的显示屏在时间长了以后会老化，主要表现就是亮度变暗，虽然你可以在一定程度上调整亮度，但是总会有一天屏幕会达到无法使用的程度。DX7也差不多，所采用的LCD显示屏在数十年以后会丧失对比度，变得很难读出任何内容。</p>
+<p>这些屏幕的替换零件已经停止生产，所以只能寻找客制化的零件，如果可能，将它们换成OLED屏是一个不错的选择。</p>
+<p><strong>Sequential Circuits Prophet 600、Moog Source、Fender Chroma Polaris:薄膜开关失效</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/moog-source-1.png" alt="moog-source-1"></p>
+<p>当年的薄膜开关很是流行，如果你不知道它们是什么，就想一想从前洗衣机上的按钮是什么样子。这些薄膜开关被许多的经典合成器所采用，但是在时间的洗礼之下，许多薄膜开关都不再灵敏（还记得洗衣机上面的按钮吗）。同样，现在想要更换这些开关也是难上加难，所以，如果你打算购买这样的合成器，一定要确保这些开关都好使。</p>
+<p><strong>ARP Odyssey、ARP Omni、ARP Axxe、ARP 2600:电容损坏</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/arp-omni-1-193-03.jpg" alt="arp-omni-1-193-03"></p>
+<p>ARP在自己的电源上使用了钽电容，这样可以使电压稳定。而在一些需要精确电压的电路里，钽电容也被使用。钽电容相比其他部件更容易坏，一般的故障是短路，而这是个严重的故障，如果电源出了故障，其下游的原件也会一起受损，最终整台合成器就完全损坏了。</p>
+<p>更换一个电源是最好的解决方案，不过对于ARP Omni来说，它的每一个按键下都有一个钽电容，所以，如果可能的话，将所有的部件重新更换一遍会很有益。</p>
+<p><strong>Realistic/Moog MG-1: Protective:泡沫降解</strong></p>
+<p>![MOOG MG-1](/Users/duanliyan/synthfever/source/images/MOOG MG-1.jpeg)</p>
+<p>1982年，Moog为Realistic生产了MG-1合成器，这是一款低成本的产品，所以难免使用了更加便宜的部件。MG-1在推子和主面板之间垫了一层黑色的保护海绵。不过这种海绵的化学结构不太稳定，随着时间推移，它们会讲解，变成黏胶一样的东西，然后，开关和推子就被粘住了。清洁它们难度很大，而且在清洁之后，它们也可能会失去原有的功能，这也是这台合成器如此稀有的一个原因。</p>
+<p><strong>Oberheim DX/DMX, Emu Drumulator, SP-12, SP-1200: 开关失效</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/oberheim-dx-1.jpg" alt="oberheim-dx-1"></p>
+<p>早期的经典鼓机都用了类似的开关，这种开关会随着灰尘的积累逐渐失效，在这个视频中你可以看到修复它们的方法<a href="https://www.youtube.com/watch?v=pImvzSE5wjQ">https://www.youtube.com/watch?v=pImvzSE5wjQ</a></p>
+]]></content>
+      <tags>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>魔力小怪兽-宁梵NA3-Essentials</title>
+    <url>/2022/07/17/%E9%AD%94%E5%8A%9B%E5%B0%8F%E6%80%AA%E5%85%BD-%E5%AE%81%E6%A2%B5NA3-Essentials/</url>
+    <content><![CDATA[<p>多年前，宁梵发布了NM2，开启了入门大众市场的第一步，在广受好评的NA2、NA2+发布后，宁梵似乎想换一个思路，发布了更低价位的NA3 Essentials。</p>
+<p><img src="/images/DSCF3851.jpg" alt="DSCF3851"></p>
+<p>这次的NA3可以说是一个全新的产品，与NA2和NA2+截然不同，就连包装也有很大的变化，也是第一次可以从外部看到耳机本体的模样。</p>
+<p>NA3 Essentials（下文用NA3代替）的设计主题是“像素小怪兽”，在不同配色的耳机上都印上了不同的像素形象，我想，这也算是一种二次元吧。</p>
+<p>我手上的是红色版本，实际上用红白撞色形容更贴切些，侧面面板是红色，而机体则是纯白色，材质是聚碳酸酯，质感很细腻温润，和NA2上的手感截然不同。</p>
+<p>对于这款耳机的定位，宁梵的宣传是：顺滑自然的声音。那么NA3做到了吗？</p>
+<p>答案是肯定的，它的确做到了。</p>
+<span id="more"></span>
+
+<h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p><img src="/images/DSCF3822-8024077.jpg" alt="DSCF3822"></p>
+<p><img src="/images/DSCF3823.jpg" alt="DSCF3823"></p>
+<p><img src="/images/DSCF3825.jpg" alt="DSCF3836"></p>
+<p><img src="/images/DSCF3826.jpg" alt="DSCF3826"></p>
+<p>NA3的包装是单层的，取出内盒即可看到耳机本体，依然镶嵌在唱片式的圆盘中，拿出圆盘，即可看到下方的配件，配件有耳套，耳机线，以及收纳包。</p>
+<p>这个包装设计还是很下功夫的，开箱体验十分流畅舒适，纸盒的印刷也非常工整，作为礼物送出去应该非常合适。</p>
+<p><img src="/images/DSCF3829.jpg" alt="DSCF3829"></p>
+<p>来近距离看一下耳机本体吧，上面最显眼的就是像素小怪兽的印刷了，但是这个印刷质量只能说一般般，边缘有些模糊，也不够白，图案是否会随着使用的摩擦而掉色这就不得而知了。总体来说，NA3设计是十分有特点的，如果想要不那么亮眼的外观可以选择白色或者黑色。</p>
+<p><img src="/images/DSCF3836-8024955.jpg" alt="DSCF3836"></p>
+<p>值得一提的是，NA3改用了橡胶材质的耳机线，和NF以往的编织线看起来完全不一样。向老羊求证后得知，两种线的线芯是完全一样的，换橡胶线是出于外观的考量。在使用上也能感觉到，橡胶线更不容易缠成一团，但是听诊器效应也因为更硬的线变大了，可以说是有得有失。</p>
+<p><img src="/images/DSCF3852.jpg" alt="DSCF3852"></p>
+<p><img src="/images/DSCF3858.jpg" alt="DSCF3858"></p>
+<p>另一个配件是皮革收纳包，手感和材质都不错，颜色和耳机也是相匹配的，刚好能塞下一对NA3。包内是植绒的，使用的时候有掉毛……品控还是有改进空间。</p>
+<p>以往赠送的是一个半硬质的圆形收纳盒，虽然收纳包能提供的防护变差了，不过使用上其实便捷了不少，因为想把耳机放入那个收纳盒实在需要不少功夫（理线，折叠等等），而NA3只要揉成一团塞进去就可以了，因为是橡胶线，也不容易出现缠成乱麻的问题，看来收纳方面考虑得很周到。</p>
+<h2 id="佩戴"><a href="#佩戴" class="headerlink" title="佩戴"></a>佩戴</h2><p>佩戴方面并没有特别值得说的，因为NA3采用的是和NA2等老产品几乎一样的形状。这个造型是经过市场检验的，曲面能贴合耳廓，绕线固定得很牢固，是宁梵看家本领。NA3的材质同样维持了不错的硬度，但感觉更不耐刮，日常使用建议避免剧烈碰撞。</p>
+<p>唯一的缺点就是听诊器效应，但这更多是配件的原因，NA3原装橡胶线的听诊器效应较为明显，如果佩戴它进行运动的话，所带来的噪音我认为是不可接受的，所以，如果有户外运动需求，谨慎考虑。虽然可以通过换线解决，但对于这个价位的耳机来说，算上线材开销就并不划算了。</p>
+<h2 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h2><p>NA3的声音可以用“惊喜“两字来形容这与宁梵以往的耳机都不相同，第一耳朵的感觉就是：顺滑，德芙般丝滑，声音的边缘很柔顺，没有尖刺耳棱角，第一听感是十分舒适自然的。</p>
+<p>那么和NA2相比呢？</p>
+<p>两者的声音取向是很接近的，都是追求氛围感，偏向两头的调音，但是两者的声音却没有什么可比性，为什么呢？区别就在这个”丝滑“上面，NA2虽说是流行风格调音，但大动态和高素质的本底特征还在，NA3就很不一样了，动态被压缩到一个舒适的区间，解析力和信息量都变低了，极高频的量较少，这一切综合在一起造就了一个丝滑的声音。相对来说，NA2的听感更加开放清晰，NA3则要更柔和更有重量感。</p>
+<p>所谓的解析力降低是一个有趣的存在，因为部分爱好者并不喜欢分毫毕现的声音，而是追求整体感氛围感，NA3的调音思路就是如此，一转中正均衡的监听风格，做出了一款侧重舒适听感的音乐耳机。</p>
+<p><img src="/images/DSCF3854.jpg" alt="DSCF3854"></p>
+<p>NA3的声场表现很不错，偏向下盘，宽松的声音本就能提升包围感，而NA3本身的声场宽度也很优秀，完全不输NA2。另一大特点是低频很有劲，单元速度变慢并没有带来低频的浑浊，相反，NA3的低频质感也在线，低频整体量较多，和NA2、NM2这种在60hz左右的集中增益不同，NA3的低频增益范围很广，但控制在了一个合适的量内，同样是很柔和的听感。</p>
+<p>下面说说NA3的玄机，很明显顺滑的声音不是随随便便就能有的，有一个显而易见的点，只要和别的耳机对比就能发现，NA3在2.5khz-3khz这段有一个明显的增益，而极高频量较少，这可能是利用这一增益来补偿弱化的极高频。同时单元速度也有降低，这样带来的另一个效果就是，人声会更突出，而乐器的线条感轮廓感会变强，可谓一石二鸟。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>看到这里你应该能对NA3的有了一个大体的认知了，作为宁梵音乐系列的进一步探索，NA3实现了这一构想：柔和耐听的声音，灵动出彩的外观，以及极具竞争力的价格。当然，这样看NA3就与监听风格搭不上边了，并不是均衡风格的声音，尽管频响曲线一定不好看，但是听感上却意外的不错，非常神奇。无论是对于宁梵还是这个耳机市场，NA3都将提供全新的体验，可以说宁梵又一次证明了自己。</p>
+]]></content>
+      <tags>
+        <tag>耳机</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>聊一聊合唱Chorus</title>
     <url>/2022/08/02/%E8%81%8A%E4%B8%80%E8%81%8A%E5%90%88%E5%94%B1Chorus/</url>
     <content><![CDATA[<p>如果你是一位硬核的吉他手，想必你一定拥有一堆单块效果器，可能还有钟爱的xx款箱头，xx年的古董失真。合成器玩家也需要丰富的效果器，都会希望用它们塑造全新的声音，但有一种效果器却在合成器与电吉他间收获了截然不同的待遇，它就是今天的主角——合唱(chorus)。</p>
 <p><img src="/images/Junochorus.jpg" alt="Junochorus"></p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>合唱本身的原理很简单，本质上是一个0反馈的延迟效果器，由一个LFO调制其延迟时间（一般在几毫秒到十几毫秒之间），将调制后的信号与原信号混合，你就得到了一个合唱效果器。现在的合唱多为立体声合唱，会有2条延迟效果链，分别在左声道和右声道，营造出宽广的声场。</p>
 <p>一般我们都会认为合唱效果器可以增厚音色，添加动感和空间感，但是，在成为今天所见的，装在一个小盒子里的效果器之前，合唱走过了相当长的路程，这也是人类尝试增厚音色的历史，本篇文章我们将了解合唱被发明的历史，并构建一个自己的合唱效果器。</p>
@@ -1086,47 +1131,6 @@
         <tag>合成器</tag>
         <tag>效果器</tag>
         <tag>合唱</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>魔力小怪兽-宁梵NA3-Essentials</title>
-    <url>/2022/07/17/%E9%AD%94%E5%8A%9B%E5%B0%8F%E6%80%AA%E5%85%BD-%E5%AE%81%E6%A2%B5NA3-Essentials/</url>
-    <content><![CDATA[<p>多年前，宁梵发布了NM2，开启了入门大众市场的第一步，在广受好评的NA2、NA2+发布后，宁梵似乎想换一个思路，发布了更低价位的NA3 Essentials。</p>
-<p><img src="/images/DSCF3851.jpg" alt="DSCF3851"></p>
-<p>这次的NA3可以说是一个全新的产品，与NA2和NA2+截然不同，就连包装也有很大的变化，也是第一次可以从外部看到耳机本体的模样。</p>
-<p>NA3 Essentials（下文用NA3代替）的设计主题是“像素小怪兽”，在不同配色的耳机上都印上了不同的像素形象，我想，这也算是一种二次元吧。</p>
-<p>我手上的是红色版本，实际上用红白撞色形容更贴切些，侧面面板是红色，而机体则是纯白色，材质是聚碳酸酯，质感很细腻温润，和NA2上的手感截然不同。</p>
-<p>对于这款耳机的定位，宁梵的宣传是：顺滑自然的声音。那么NA3做到了吗？</p>
-<p>答案是肯定的，它的确做到了。</p>
-<a id="more"></a>
-
-<h2 id="开箱"><a href="#开箱" class="headerlink" title="开箱"></a>开箱</h2><p><img src="/images/DSCF3822-8024077.jpg" alt="DSCF3822"></p>
-<p><img src="/images/DSCF3823.jpg" alt="DSCF3823"></p>
-<p><img src="/images/DSCF3825.jpg" alt="DSCF3836"></p>
-<p><img src="/images/DSCF3826.jpg" alt="DSCF3826"></p>
-<p>NA3的包装是单层的，取出内盒即可看到耳机本体，依然镶嵌在唱片式的圆盘中，拿出圆盘，即可看到下方的配件，配件有耳套，耳机线，以及收纳包。</p>
-<p>这个包装设计还是很下功夫的，开箱体验十分流畅舒适，纸盒的印刷也非常工整，作为礼物送出去应该非常合适。</p>
-<p><img src="/images/DSCF3829.jpg" alt="DSCF3829"></p>
-<p>来近距离看一下耳机本体吧，上面最显眼的就是像素小怪兽的印刷了，但是这个印刷质量只能说一般般，边缘有些模糊，也不够白，图案是否会随着使用的摩擦而掉色这就不得而知了。总体来说，NA3设计是十分有特点的，如果想要不那么亮眼的外观可以选择白色或者黑色。</p>
-<p><img src="/images/DSCF3836-8024955.jpg" alt="DSCF3836"></p>
-<p>值得一提的是，NA3改用了橡胶材质的耳机线，和NF以往的编织线看起来完全不一样。向老羊求证后得知，两种线的线芯是完全一样的，换橡胶线是出于外观的考量。在使用上也能感觉到，橡胶线更不容易缠成一团，但是听诊器效应也因为更硬的线变大了，可以说是有得有失。</p>
-<p><img src="/images/DSCF3852.jpg" alt="DSCF3852"></p>
-<p><img src="/images/DSCF3858.jpg" alt="DSCF3858"></p>
-<p>另一个配件是皮革收纳包，手感和材质都不错，颜色和耳机也是相匹配的，刚好能塞下一对NA3。包内是植绒的，使用的时候有掉毛……品控还是有改进空间。</p>
-<p>以往赠送的是一个半硬质的圆形收纳盒，虽然收纳包能提供的防护变差了，不过使用上其实便捷了不少，因为想把耳机放入那个收纳盒实在需要不少功夫（理线，折叠等等），而NA3只要揉成一团塞进去就可以了，因为是橡胶线，也不容易出现缠成乱麻的问题，看来收纳方面考虑得很周到。</p>
-<h2 id="佩戴"><a href="#佩戴" class="headerlink" title="佩戴"></a>佩戴</h2><p>佩戴方面并没有特别值得说的，因为NA3采用的是和NA2等老产品几乎一样的形状。这个造型是经过市场检验的，曲面能贴合耳廓，绕线固定得很牢固，是宁梵看家本领。NA3的材质同样维持了不错的硬度，但感觉更不耐刮，日常使用建议避免剧烈碰撞。</p>
-<p>唯一的缺点就是听诊器效应，但这更多是配件的原因，NA3原装橡胶线的听诊器效应较为明显，如果佩戴它进行运动的话，所带来的噪音我认为是不可接受的，所以，如果有户外运动需求，谨慎考虑。虽然可以通过换线解决，但对于这个价位的耳机来说，算上线材开销就并不划算了。</p>
-<h2 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h2><p>NA3的声音可以用“惊喜“两字来形容这与宁梵以往的耳机都不相同，第一耳朵的感觉就是：顺滑，德芙般丝滑，声音的边缘很柔顺，没有尖刺耳棱角，第一听感是十分舒适自然的。</p>
-<p>那么和NA2相比呢？</p>
-<p>两者的声音取向是很接近的，都是追求氛围感，偏向两头的调音，但是两者的声音却没有什么可比性，为什么呢？区别就在这个”丝滑“上面，NA2虽说是流行风格调音，但大动态和高素质的本底特征还在，NA3就很不一样了，动态被压缩到一个舒适的区间，解析力和信息量都变低了，极高频的量较少，这一切综合在一起造就了一个丝滑的声音。相对来说，NA2的听感更加开放清晰，NA3则要更柔和更有重量感。</p>
-<p>所谓的解析力降低是一个有趣的存在，因为部分爱好者并不喜欢分毫毕现的声音，而是追求整体感氛围感，NA3的调音思路就是如此，一转中正均衡的监听风格，做出了一款侧重舒适听感的音乐耳机。</p>
-<p><img src="/images/DSCF3854.jpg" alt="DSCF3854"></p>
-<p>NA3的声场表现很不错，偏向下盘，宽松的声音本就能提升包围感，而NA3本身的声场宽度也很优秀，完全不输NA2。另一大特点是低频很有劲，单元速度变慢并没有带来低频的浑浊，相反，NA3的低频质感也在线，低频整体量较多，和NA2、NM2这种在60hz左右的集中增益不同，NA3的低频增益范围很广，但控制在了一个合适的量内，同样是很柔和的听感。</p>
-<p>下面说说NA3的玄机，很明显顺滑的声音不是随随便便就能有的，有一个显而易见的点，只要和别的耳机对比就能发现，NA3在2.5khz-3khz这段有一个明显的增益，而极高频量较少，这可能是利用这一增益来补偿弱化的极高频。同时单元速度也有降低，这样带来的另一个效果就是，人声会更突出，而乐器的线条感轮廓感会变强，可谓一石二鸟。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>看到这里你应该能对NA3的有了一个大体的认知了，作为宁梵音乐系列的进一步探索，NA3实现了这一构想：柔和耐听的声音，灵动出彩的外观，以及极具竞争力的价格。当然，这样看NA3就与监听风格搭不上边了，并不是均衡风格的声音，尽管频响曲线一定不好看，但是听感上却意外的不错，非常神奇。无论是对于宁梵还是这个耳机市场，NA3都将提供全新的体验，可以说宁梵又一次证明了自己。</p>
-]]></content>
-      <tags>
-        <tag>耳机</tag>
       </tags>
   </entry>
 </search>

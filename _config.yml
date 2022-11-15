@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://2osc.com
+url: https://2osc.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,8 +104,8 @@ theme: hexo-theme-ocean-develop
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@gitee.com:synthfever/synthfever.git
-  branch: master
+  repo: https://github.com/extrachange/2osc_site.git
+  branch: main
   message: hexo_d
 search:
   path: search.xml
