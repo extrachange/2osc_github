@@ -1,5 +1,5 @@
 ---
-title: 想玩模块？关于Eurorack你需要的都在这里
+title: 想玩模块？关于Eurorack你需要的都在这里(未完工)
 date: 2022-10-09 23:20:46
 tags:
  -模块
